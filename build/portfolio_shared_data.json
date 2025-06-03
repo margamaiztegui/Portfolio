@@ -1,0 +1,77 @@
+{
+    "basic_info": {
+      "name": "Margarette Maiztegui",
+      "titles": [ "Front-end Developer", "UI/UX Developer", "Power Apps Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/margamaiztegui",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mrgxxm",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "Profile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    },
+    "designskills": {
+      "icons": [
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        },
+        {
+          "name": "Canva",
+          "class": "devicon-canva-original",
+          "level": "60"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-line",
+          "level": "60"
+        }
+      ]
+    }
+  }

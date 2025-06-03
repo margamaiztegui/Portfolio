@@ -1,0 +1,203 @@
+{
+    "basic_info": {
+      "description_header": "Hello there!",
+      "description": "I’m Margarette Maiztegui, a front-end developer and UI/UX designer focused on building accessible, responsive digital products tailored to users' needs. Skilled in modern web technologies and detail-oriented, I translate complex requirements into intuitive interfaces. I adapt to new tools and teams with ease, and take pride in creating thoughtful, well-crafted solutions that speak for themselves.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Works",
+        "skills": "Tech Skills",
+        "designskills": "Design Skills",
+        "experience": "Experiences"
+      }
+    },
+    "projects": [
+      {
+        "title": "Therapeutic Guidelines (Main website - Legacy)",
+        "startDate": "2022-2024",
+        "description": "Therapeutic Guidelines is an Australian health-related organization and this is the project I was involved with them. The website served as the organization's forum for health professionals both in Australia and worldwide. This was developed using Power Platform (Power Pages), ReactJS, CSS / SCSS, and Bootstrap.",
+        "images": [
+          "images/portfolio/tg/landing-page.png",
+          "images/portfolio/tg/updates.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "name": "Power Platform (Power Pages and Dataverse)"
+          }
+        ]
+      },
+      {
+        "title": "Therapeutic Guidelines (eTG)",
+        "startDate": "2023-2024",
+        "description": "Therapeutic Guidelines (eTG) is a dedicated website for all health-related guidelines for the healthcare professionals and subscribers.",
+        "images": [
+          "images/portfolio/etg/etg-site.png",
+          "images/portfolio/etg/etg-sample.png"
+        ],
+        "url": "https://tgldcdp.tg.org.au/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "B2B Vendor Portal",
+        "startDate": "2024-2025",
+        "description": "Vendor Portal is a B2B system built on Microsoft Power Pages, designed to streamline the management of purchase quotes, orders, and invoicing. It allows clients to track and file purchase quotes and orders, and receive real-time notifications when a payable invoice becomes available. The system also includes a vendor approval workflow, ensuring that purchase orders can only be issued to approved suppliers, enhancing control and compliance throughout the procurement process.",
+        "images": [
+          "images/portfolio/vp/vp 1.png",
+          "images/portfolio/vp/vp 2.png",
+          "images/portfolio/vp/vp 3.png",
+          "images/portfolio/vp/vp 4.png"
+        ],
+        "url": "https://vp-dev.powerappsportals.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Appointment Scheduling",
+        "startDate": "2025",
+        "description": "The client for this project is a well-known aesthetic clinic in the Philippines. The goal of both the company and the client is to streamline the reservation process for the clinic's customers. This system enables users to book appointments by selecting their preferred procedures and assigning the appropriate personnel for each service.",
+        "images": [
+          "images/portfolio/res-hub/res1.png",
+          "images/portfolio/res-hub/res2.png",
+          "images/portfolio/res-hub/res3.png"
+        ],
+        "url": "https://belo-hub.powerappsportals.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Performance Advantage Systems International",
+        "title": "Senior Web Developer",
+        "years": "09.2024 - present",
+        "mainTech": [
+          "Microsoft Power Platform"
+        ],
+        "technologies": [
+          "HTML",
+          "ReactJS",
+          "JavaScript",
+          "Bootstrap",
+          "C#",
+          "Power Pages",
+          "Power Automate",
+          "MS Dataverse",
+          "Figma"
+        ]
+      },
+      {
+        "company": "BruntWork (Client: Therapeutic Guidelines)",
+        "title": "Web Developer | Freelancer",
+        "years": "02.2022 - 07.2024",
+        "mainTech": [
+          "Microsoft Power Platform and React JS"
+        ],
+        "technologies": [
+          "HTML",
+          "ReactJS",
+          "JavaScript",
+          "Bootstrap",
+          "Power Pages",
+          "XML",
+          "AJAX",
+          "MS Dataverse"
+        ]
+      },
+      {
+        "company": "STI College Quezon Avenue",
+        "title": "IT Instructor",
+        "years": "07.2018 - 04.2020",
+        "mainTech": [
+          "Web Development"
+        ],
+        "technologies": [
+          "HTML",
+          "JavaScript",
+          "Bootstrap",
+          "C#",
+          "PHP",
+          "MySQL",
+          "Microsoft Office",
+          "Adobe Photoshop",
+          "Adobe Dreamweaver"
+        ]
+      },
+      {
+        "company": "Software IT Professionals",
+        "title": "Junior Programmer",
+        "years": "04.2016 - 09.2017",
+        "mainTech": [
+          "VB .Net, MySQL, PHP"
+        ],
+        "technologies": [
+          "VB .Net",
+          "HTML",
+          "JavaScript",
+          "Bootstrap",
+          "PHP",
+          "MySQL"
+        ]
+      }
+    ]
+  }
