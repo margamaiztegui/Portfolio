@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d54f2a5a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e0f00b3a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e0f00b3a.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.0154353d.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0154353d.js.map",
-    "static/css/2.fd277b09.chunk.css": "/Portfolio/static/css/2.fd277b09.chunk.css",
-    "static/js/2.5e37e901.chunk.js": "/Portfolio/static/js/2.5e37e901.chunk.js",
-    "static/js/2.5e37e901.chunk.js.map": "/Portfolio/static/js/2.5e37e901.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.00525cda7aba9ef24b399d1d504986c3.js": "/Portfolio/precache-manifest.00525cda7aba9ef24b399d1d504986c3.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/2.fd277b09.chunk.css.map": "/Portfolio/static/css/2.fd277b09.chunk.css.map",
-    "static/css/main.d54f2a5a.chunk.css.map": "/Portfolio/static/css/main.d54f2a5a.chunk.css.map",
-    "static/js/2.5e37e901.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.5e37e901.chunk.js.LICENSE.txt"
+    "main.css": "/Portfolio/marga-portfolio/static/css/main.d54f2a5a.chunk.css",
+    "main.js": "/Portfolio/marga-portfolio/static/js/main.6691cf06.chunk.js",
+    "main.js.map": "/Portfolio/marga-portfolio/static/js/main.6691cf06.chunk.js.map",
+    "runtime-main.js": "/Portfolio/marga-portfolio/static/js/runtime-main.e6ae6804.js",
+    "runtime-main.js.map": "/Portfolio/marga-portfolio/static/js/runtime-main.e6ae6804.js.map",
+    "static/css/2.fd277b09.chunk.css": "/Portfolio/marga-portfolio/static/css/2.fd277b09.chunk.css",
+    "static/js/2.5e37e901.chunk.js": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js",
+    "static/js/2.5e37e901.chunk.js.map": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js.map",
+    "index.html": "/Portfolio/marga-portfolio/index.html",
+    "precache-manifest.3f167c6fdff8dc49a07b3a0cd3f6fdba.js": "/Portfolio/marga-portfolio/precache-manifest.3f167c6fdff8dc49a07b3a0cd3f6fdba.js",
+    "service-worker.js": "/Portfolio/marga-portfolio/service-worker.js",
+    "static/css/2.fd277b09.chunk.css.map": "/Portfolio/marga-portfolio/static/css/2.fd277b09.chunk.css.map",
+    "static/css/main.d54f2a5a.chunk.css.map": "/Portfolio/marga-portfolio/static/css/main.d54f2a5a.chunk.css.map",
+    "static/js/2.5e37e901.chunk.js.LICENSE.txt": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0154353d.js",
+    "static/js/runtime-main.e6ae6804.js",
     "static/css/2.fd277b09.chunk.css",
     "static/js/2.5e37e901.chunk.js",
     "static/css/main.d54f2a5a.chunk.css",
-    "static/js/main.e0f00b3a.chunk.js"
+    "static/js/main.6691cf06.chunk.js"
   ]
 }
