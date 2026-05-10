@@ -1,25 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/marga-portfolio/static/css/main.d54f2a5a.chunk.css",
-    "main.js": "/Portfolio/marga-portfolio/static/js/main.6691cf06.chunk.js",
-    "main.js.map": "/Portfolio/marga-portfolio/static/js/main.6691cf06.chunk.js.map",
-    "runtime-main.js": "/Portfolio/marga-portfolio/static/js/runtime-main.e6ae6804.js",
-    "runtime-main.js.map": "/Portfolio/marga-portfolio/static/js/runtime-main.e6ae6804.js.map",
-    "static/css/2.fd277b09.chunk.css": "/Portfolio/marga-portfolio/static/css/2.fd277b09.chunk.css",
-    "static/js/2.5e37e901.chunk.js": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js",
-    "static/js/2.5e37e901.chunk.js.map": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js.map",
-    "index.html": "/Portfolio/marga-portfolio/index.html",
-    "precache-manifest.3f167c6fdff8dc49a07b3a0cd3f6fdba.js": "/Portfolio/marga-portfolio/precache-manifest.3f167c6fdff8dc49a07b3a0cd3f6fdba.js",
-    "service-worker.js": "/Portfolio/marga-portfolio/service-worker.js",
-    "static/css/2.fd277b09.chunk.css.map": "/Portfolio/marga-portfolio/static/css/2.fd277b09.chunk.css.map",
-    "static/css/main.d54f2a5a.chunk.css.map": "/Portfolio/marga-portfolio/static/css/main.d54f2a5a.chunk.css.map",
-    "static/js/2.5e37e901.chunk.js.LICENSE.txt": "/Portfolio/marga-portfolio/static/js/2.5e37e901.chunk.js.LICENSE.txt"
+    "main.css": "/Portfolio/static/css/main.15a783a0.css",
+    "main.js": "/Portfolio/static/js/main.218858ed.js",
+    "index.html": "/Portfolio/index.html",
+    "main.15a783a0.css.map": "/Portfolio/static/css/main.15a783a0.css.map",
+    "main.218858ed.js.map": "/Portfolio/static/js/main.218858ed.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6ae6804.js",
-    "static/css/2.fd277b09.chunk.css",
-    "static/js/2.5e37e901.chunk.js",
-    "static/css/main.d54f2a5a.chunk.css",
-    "static/js/main.6691cf06.chunk.js"
+    "static/css/main.15a783a0.css",
+    "static/js/main.218858ed.js"
   ]
 }
